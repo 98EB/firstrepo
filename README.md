@@ -1,2 +1,4 @@
 # firstrepo
-first repo repo repo
+first repo repo 
+
+spo kuptoj asigje po hajd me 
